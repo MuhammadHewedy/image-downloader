@@ -6,3 +6,8 @@ Usage:
 ======
 from command line:  
 `java ImageDDL <number>`
+
+Executables:
+============
+You can either download the JAR file [ImageDDL.jar](https://raw.githubusercontent.com/MuhammadHewedy/image-downloader/master/exec/ImageDDL.jar), or download Linux executable [imageddl](https://raw.githubusercontent.com/MuhammadHewedy/image-downloader/master/exec/imageddl).
+ 
